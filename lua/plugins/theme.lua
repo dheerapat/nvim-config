@@ -1,0 +1,1 @@
+/home/dheeto/.config/omarchy/current/theme/neovim.lua
